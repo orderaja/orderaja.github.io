@@ -5,7 +5,7 @@ description: Rak Minimalis Serbaguna crafted by ilovekayu
 price: "99.000"
 price_promo: "80.000"
 date: 2022-12-07 08:00:00 +07:00
-tags: ["rak minimalis"]
+tags: ["rak", "rak minimalis"]
 thumbnail: /products/Rak-minimalis-serbaguna.jpeg
 products: ["/products/Rak-minimalis-serbaguna.jpeg","/products/Rak-minimalis-serbaguna-1.jpeg","/products/Rak-minimalis-serbaguna-2.jpeg","/products/Rak-minimalis-serbaguna-3.jpeg"]
 ---
