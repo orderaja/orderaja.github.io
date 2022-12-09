@@ -5,7 +5,7 @@ description: Huruf Kayu Happy Cooking crafted by ilovekayu
 price: "147.000"
 price_promo: "115.000"
 date: 2022-12-06 08:00:00 +07:00
-tags: ["huruf kayu"]
+tags: ["hurufkayu"]
 thumbnail: /products/Happy-cooking.jpg
 products: ["/products/Happy-cooking.jpg","/products/Happy-cooking-1.jpg","/products/Happy-cooking-2.jpg"]
 ---
