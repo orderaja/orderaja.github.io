@@ -5,7 +5,7 @@ description: Rak Kopi Sachet crafted by ilovekayu
 price: "97.000"
 price_promo: "75.000"
 date: 2022-12-05 08:00:00 +07:00
-tags: ["rak", "rak kopi"]
+tags: ["rak","rak kopi"]
 thumbnail: /products/Rak-kopi-sachet.jpg
 products: ["/products/Rak-kopi-sachet.jpg","/products/Rak-kopi-sachet-1.jpg","/products/Rak-kopi-sachet-2.jpg","/products/Rak-kopi-sachet-3.jpg"]
 ---
