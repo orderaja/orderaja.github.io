@@ -7,7 +7,7 @@ price_promo: "40.000"
 date: 2022-12-03 08:00:00 +07:00
 tags: ["hurufkayu","papangantung"]
 thumbnail: /products/Gantungan-welcome.jpg
-products: ["/products/Gantungan-welcome.jpg"]
+products: [""]
 ---
 
 ## Papan Gantung Welcome ##
