@@ -1,4 +1,4 @@
-Sitemap: https://ilovekayu.com/sitemap.xml
+Sitemap: https://orderaja.github.io/sitemap.xml
 
 User-agent: *
 
